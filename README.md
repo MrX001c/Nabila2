@@ -12,8 +12,8 @@ check your nodejs version
 
 How to run bot for the first time ?
 ------
-- `git clone https://gitlab.com/m.rakha.f/alphat-new-generation.git`
-- `cd alphat-new-generation && npm install`
+- `git clone `https://github.com/along507/AlongJS
+- `cd AlongJS && npm install`
 - `insert your admin mid in main.js`
 - `npm start`
 
@@ -46,12 +46,10 @@ How to activate AutoLike feature ?
 
 Author
 ------
-[@alfathdirk](https://instagram.com/alfathdirk) (LINE ALPHAT JS)<br>
-[@GoogleX](https://fb.me/m.rakha.f) (LINE ALPHAT-FORK)
-
+[@along](http://line.me/ti/p/GFfHuTXfFp)
 Contact Me / Need Help ?
 ------
-[@LINE](http://line.me/ti/p/MB6mnZWbu_) (GoogleX)
+[@LINE](http://line.me/ti/p/GFfHuTXfFp) (along)
 
 FAQ (Frequently Asked Questions)
 ------
